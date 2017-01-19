@@ -1,0 +1,9 @@
+# hugo directories
+/public/
+/themes/
+
+# Webstorm project directory
+.idea/
+
+# joe backup files
+*~
