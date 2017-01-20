@@ -1,5 +1,6 @@
 ## README
 
+Simple static site, Hugo style.
 
 ### Nothing to see here
 
