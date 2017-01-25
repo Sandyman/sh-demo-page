@@ -1,4 +1,3 @@
 title = "Bitgenics demo site"
 languageCode = "en-us"
 theme = "landing-page-hugo"
-baseURL = "https://bitgenics.io/"
